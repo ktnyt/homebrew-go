@@ -1,4 +1,4 @@
-class Go < Formula
+class GoLatest < Formula
   desc "Open source programming language to build simple/reliable/efficient software"
   homepage "https://golang.org"
   url "https://golang.org/dl/go1.17.3.src.tar.gz"
